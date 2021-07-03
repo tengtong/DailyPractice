@@ -1,54 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4a4c61f-699f-4b8d-9ab3-8d12c943a8f9" name="Default Changelist" comment="" />
+    <list default="true" id="4c1bc0f7-44e6-462a-8740-97d3c08bda5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyPractice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M04/M0425.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M04/M0426.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M04/M0428.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M04/M0428.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M04/M0429.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M04/M0430.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M04/M0430.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0501.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0502.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0503.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0503.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0504.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0505.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0506.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0507.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0508.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0509.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0510.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0511.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0511.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0512.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0512.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0513.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0514.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0515.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0515.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0516.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0517.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0518.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0518.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0519.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0519.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0520.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0521.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0522.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0523.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0524.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0525.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0526.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0526.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0527.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0528.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0529.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0530.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0530.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0531.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0601.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0602.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0602.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0603.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0604.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0605.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0606.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0607.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0608.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0609.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0610.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0611.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0612.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0613.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0614.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0615.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0615.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0616.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0616.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0617.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0618.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0618.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0619.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0620.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0621.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0621.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0622.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0623.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0624.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0624.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DailyPractice/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0425.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0425.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0426.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0426.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0428.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0428.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0429.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0429.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0430.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0430.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0501$Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0501$Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0501.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0501.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0502.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0502.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0503.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0503.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0504.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0504.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0505.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0505.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0506.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0506.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0507.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0507.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0508.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0508.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0509.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0509.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0510.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0510.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0511.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0511.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0512.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0512.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0513.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0513.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0514.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0514.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0515$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0515$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0515.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0515.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0516.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0516.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0517.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0517.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0518.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0518.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0519.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0519.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0520$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0520$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0520.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0520.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0521.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0521.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0522.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0522.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0523$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0523$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0523$Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0523$Trie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0523.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0523.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0524.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0524.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0525.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0525.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0526.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0526.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0527.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0527.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0528.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0528.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0529.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0529.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0530.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0530.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0531.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0531.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0601.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0601.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0602.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0602.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0603.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0603.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0604.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0604.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0605.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0605.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0606.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0606.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0607.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0607.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0608.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0608.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0609.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0609.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0610.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0610.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0611$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0611$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0611.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0611.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0612.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0612.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0613.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0613.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0614.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0614.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0615.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0615.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0616.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0616.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0617.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0617.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0618.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0618.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0619.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0619.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0620.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0620.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0621.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0621.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0622.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0622.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0623.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0623.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0624.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0624.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/TreeNode.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageViewManager">
-    <option name="myElementSize" value="187" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="dailyPractice" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="FxmlFile" />
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="/Library/maven/apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="/Library/maven/apache-maven-3.6.3/conf/settings.xml" />
-      </MavenGeneralSettings>
-    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1rMvr6KMCAyXSvmkMhcCeeTOGQu" />
+  <component name="ProjectId" id="1unPKJogGB3ELnMMNs5e6iWL0AR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -58,66 +169,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="dailyPractice" />
-      <recent name="dailyPractice.M04" />
-      <recent name="yanFaZuiAi" />
-      <recent name="april.search.backTracking" />
-      <recent name="april.search.bfs" />
-    </key>
   </component>
   <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="M0611" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dailyPractice.M06.M0611" />
-      <module name="dailyPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dailyPractice.M06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="M0616" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dailyPractice.M06.M0616" />
-      <module name="dailyPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dailyPractice.M06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="M0623" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dailyPractice.M06.M0623" />
-      <module name="dailyPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dailyPractice.M06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="dailyPractice" />
       <method v="2">
@@ -125,14 +184,61 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dailyPractice.Test" />
-      <module name="dailyPractice" />
+      <option name="MAIN_CLASS_NAME" value="DailyPractice.Test" />
+      <module name="DailyPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dailyPractice.*" />
+          <option name="PATTERN" value="DailyPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="DailyPractice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="DailyPractice" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -141,9 +247,6 @@
       <list>
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.M0623" />
-        <item itemvalue="Application.M0616" />
-        <item itemvalue="Application.M0611" />
       </list>
     </recent_temporary>
   </component>
@@ -152,71 +255,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a4a4c61f-699f-4b8d-9ab3-8d12c943a8f9" name="Default Changelist" comment="" />
-      <created>1618798968355</created>
+      <changelist id="4c1bc0f7-44e6-462a-8740-97d3c08bda5b" name="Default Changelist" comment="" />
+      <created>1625298315610</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1618798968355</updated>
-      <workItem from="1618798970311" duration="5084000" />
-      <workItem from="1618970847957" duration="7819000" />
-      <workItem from="1619055276378" duration="29331000" />
-      <workItem from="1619338864656" duration="15643000" />
-      <workItem from="1619526666645" duration="105000" />
-      <workItem from="1619597916729" duration="6398000" />
-      <workItem from="1619612116360" duration="2808000" />
-      <workItem from="1619661881736" duration="2593000" />
-      <workItem from="1619665024629" duration="36235000" />
-      <workItem from="1619785009757" duration="3747000" />
-      <workItem from="1619833893674" duration="24662000" />
-      <workItem from="1620026037079" duration="56761000" />
-      <workItem from="1620608879568" duration="11254000" />
-      <workItem from="1577837264481" duration="17000" />
-      <workItem from="1620781554810" duration="10434000" />
-      <workItem from="1620871075500" duration="30054000" />
-      <workItem from="1621150349728" duration="43474000" />
-      <workItem from="1621600801993" duration="1042000" />
-      <workItem from="1621668171943" duration="4019000" />
-      <workItem from="1621757405840" duration="2663000" />
-      <workItem from="1621851409982" duration="1182000" />
-      <workItem from="1621860577036" duration="939000" />
-      <workItem from="1621910820791" duration="2645000" />
-      <workItem from="1622011885198" duration="1353000" />
-      <workItem from="1622091234548" duration="7502000" />
-      <workItem from="1622120779862" duration="3833000" />
-      <workItem from="1622170851991" duration="14812000" />
-      <workItem from="1622423136671" duration="11556000" />
-      <workItem from="1622633844471" duration="9436000" />
-      <workItem from="1622701084352" duration="296000" />
-      <workItem from="1622769789651" duration="7580000" />
-      <workItem from="1622859543685" duration="2819000" />
-      <workItem from="1622864046944" duration="1032000" />
-      <workItem from="1622894507990" duration="4894000" />
-      <workItem from="1623205440381" duration="11208000" />
-      <workItem from="1577842169182" duration="116000" />
-      <workItem from="1623735210264" duration="116000" />
-      <workItem from="1623735675174" duration="55000" />
-      <workItem from="1623735819424" duration="34000" />
-      <workItem from="1623735887925" duration="68000" />
-      <workItem from="1623736972715" duration="895000" />
-      <workItem from="1623738529320" duration="955000" />
-      <workItem from="1623746224874" duration="254000" />
-      <workItem from="1623758338838" duration="4211000" />
-      <workItem from="1623812888873" duration="9000" />
-      <workItem from="1623892836296" duration="1853000" />
-      <workItem from="1623935356861" duration="3052000" />
-      <workItem from="1623979918829" duration="1324000" />
-      <workItem from="1624085793831" duration="1565000" />
-      <workItem from="1624238839691" duration="2298000" />
-      <workItem from="1624283134721" duration="66000" />
-      <workItem from="1624325672163" duration="2430000" />
-      <workItem from="1624411270920" duration="4649000" />
-      <workItem from="1624465611072" duration="4353000" />
-      <workItem from="1624502014841" duration="795000" />
-      <workItem from="1624502905578" duration="104000" />
-      <workItem from="1624545517335" duration="188000" />
-      <workItem from="1624545751794" duration="265000" />
-      <workItem from="1624591024331" duration="195000" />
-      <workItem from="1625240723849" duration="48000" />
+      <updated>1625298315610</updated>
+      <workItem from="1625298322409" duration="11000" />
+      <workItem from="1625298351188" duration="42000" />
+      <workItem from="1625298408624" duration="58000" />
+      <workItem from="1625298470686" duration="575000" />
+      <workItem from="1625299114572" duration="342000" />
     </task>
     <servers />
   </component>
@@ -224,264 +272,45 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1680" y="186" key="#Project_Structure" timestamp="1622120929491">
-      <screen x="1440" y="23" width="1080" height="1897" />
-    </state>
-    <state x="320" y="92" key="#Project_Structure/0.23.1440.805@0.23.1440.805" timestamp="1621077250800" />
-    <state x="320" y="92" key="#Project_Structure/0.23.1440.807@0.23.1440.807" timestamp="1618798984375" />
-    <state x="1680" y="186" key="#Project_Structure/1440.23.1080.1897/0.23.1440.808@1440.23.1080.1897" timestamp="1622120929491" />
-    <state x="405" y="99" key="#SpiralOrder" timestamp="1621050528176">
-      <screen x="0" y="23" width="1440" height="805" />
-    </state>
-    <state x="405" y="99" key="#SpiralOrder/0.23.1440.805@0.23.1440.805" timestamp="1621050528176" />
-    <state x="533" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1622187573366">
-      <screen x="0" y="23" width="1440" height="805" />
-    </state>
-    <state x="533" y="138" key="#com.intellij.ide.util.MemberChooser/0.23.1440.807@0.23.1440.807" timestamp="1620356067400" />
-    <state x="533" y="138" key="#com.intellij.ide.util.MemberChooser/0.23.1440.810@0.23.1440.810" timestamp="1619504867461" />
-    <state x="533" y="138" key="#com.intellij.ide.util.MemberChooser/1440.23.1080.1897/0.23.1440.805@0.23.1440.805" timestamp="1622187573366" />
-    <state x="523" y="356" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1618970880333">
-      <screen x="0" y="23" width="1440" height="807" />
-    </state>
-    <state x="523" y="356" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.807@0.23.1440.807" timestamp="1618970880333" />
-    <state x="492" y="304" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1619612580645">
-      <screen x="0" y="23" width="1440" height="807" />
-    </state>
-    <state x="492" y="304" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.807@0.23.1440.807" timestamp="1619612580645" />
-    <state x="1784" y="393" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1622121220898">
-      <screen x="1440" y="23" width="1080" height="1897" />
-    </state>
-    <state x="458" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.805@0.23.1440.805" timestamp="1620903362755" />
-    <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.810@0.23.1440.810" timestamp="1619505686988" />
-    <state x="1784" y="393" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1440.23.1080.1897/0.23.1440.805@1440.23.1080.1897" timestamp="1622121220898" />
-    <state width="1398" height="227" key="GridCell.Tab.0.bottom" timestamp="1624546016923">
+    <state x="320" y="126" key="#Project_Structure" timestamp="1625299271155">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1300" height="307" key="GridCell.Tab.0.bottom/-1920.-120.1920.984/0.23.1440.877@-1920.-120.1920.984" timestamp="1623071855065" />
-    <state width="1300" height="153" key="GridCell.Tab.0.bottom/-251.-1057.1920.1057/0.23.1440.805@-251.-1057.1920.1057" timestamp="1622634341393" />
-    <state width="1300" height="238" key="GridCell.Tab.0.bottom/-251.-1057.1920.984/0.23.1440.877@-251.-1057.1920.984" timestamp="1622640596250" />
-    <state width="1398" height="180" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1623810801301" />
-    <state width="1398" height="180" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1623810772598" />
-    <state width="1300" height="283" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1623384410246" />
-    <state width="1400" height="199" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1622616676762" />
-    <state width="1308" height="181" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1620964681462" />
-    <state width="1308" height="182" key="GridCell.Tab.0.bottom/0.23.1440.810@0.23.1440.810" timestamp="1620306862560" />
-    <state width="1400" height="199" key="GridCell.Tab.0.bottom/0.23.1920.984@0.23.1920.984" timestamp="1622358556693" />
-    <state width="1398" height="227" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1624546016923" />
-    <state width="1300" height="285" key="GridCell.Tab.0.bottom/1440.23.1080.1897/0.23.1440.805@0.23.1440.805" timestamp="1622188118987" />
-    <state width="897" height="670" key="GridCell.Tab.0.bottom/1440.23.1080.1897/0.23.1440.805@1440.23.1080.1897" timestamp="1622188959706" />
-    <state width="1400" height="199" key="GridCell.Tab.0.bottom/1440.55.1920.1057/0.23.1440.805@1440.55.1920.1057" timestamp="1622518972486" />
-    <state width="1400" height="199" key="GridCell.Tab.0.bottom/1440.55.1920.984/0.23.1440.877@1440.55.1920.984" timestamp="1622422852709" />
-    <state width="1398" height="227" key="GridCell.Tab.0.center" timestamp="1624546016923">
+    <state x="320" y="126" key="#Project_Structure/0.25.1440.875@0.25.1440.875" timestamp="1625299271155" />
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625299236618">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1300" height="307" key="GridCell.Tab.0.center/-1920.-120.1920.984/0.23.1440.877@-1920.-120.1920.984" timestamp="1623071855064" />
-    <state width="1300" height="153" key="GridCell.Tab.0.center/-251.-1057.1920.1057/0.23.1440.805@-251.-1057.1920.1057" timestamp="1622634341383" />
-    <state width="1300" height="238" key="GridCell.Tab.0.center/-251.-1057.1920.984/0.23.1440.877@-251.-1057.1920.984" timestamp="1622640596249" />
-    <state width="1398" height="180" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1623810801300" />
-    <state width="1398" height="180" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1623810772595" />
-    <state width="1300" height="283" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1623384410245" />
-    <state width="1400" height="199" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1622616676761" />
-    <state width="1308" height="181" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1620964681460" />
-    <state width="1308" height="182" key="GridCell.Tab.0.center/0.23.1440.810@0.23.1440.810" timestamp="1620306862559" />
-    <state width="1400" height="199" key="GridCell.Tab.0.center/0.23.1920.984@0.23.1920.984" timestamp="1622358556692" />
-    <state width="1398" height="227" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1624546016923" />
-    <state width="1300" height="285" key="GridCell.Tab.0.center/1440.23.1080.1897/0.23.1440.805@0.23.1440.805" timestamp="1622188118985" />
-    <state width="897" height="670" key="GridCell.Tab.0.center/1440.23.1080.1897/0.23.1440.805@1440.23.1080.1897" timestamp="1622188959703" />
-    <state width="1400" height="199" key="GridCell.Tab.0.center/1440.55.1920.1057/0.23.1440.805@1440.55.1920.1057" timestamp="1622518972485" />
-    <state width="1400" height="199" key="GridCell.Tab.0.center/1440.55.1920.984/0.23.1440.877@1440.55.1920.984" timestamp="1622422852707" />
-    <state width="1398" height="227" key="GridCell.Tab.0.left" timestamp="1624546016922">
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1625299236618" />
+    <state width="1398" height="227" key="GridCell.Tab.0.bottom" timestamp="1625299313538">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1300" height="307" key="GridCell.Tab.0.left/-1920.-120.1920.984/0.23.1440.877@-1920.-120.1920.984" timestamp="1623071855063" />
-    <state width="1300" height="153" key="GridCell.Tab.0.left/-251.-1057.1920.1057/0.23.1440.805@-251.-1057.1920.1057" timestamp="1622634341381" />
-    <state width="1300" height="238" key="GridCell.Tab.0.left/-251.-1057.1920.984/0.23.1440.877@-251.-1057.1920.984" timestamp="1622640596248" />
-    <state width="1398" height="180" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1623810801300" />
-    <state width="1398" height="180" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1623810772593" />
-    <state width="1300" height="283" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1623384410244" />
-    <state width="1400" height="199" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1622616676761" />
-    <state width="1308" height="181" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1620964681459" />
-    <state width="1308" height="182" key="GridCell.Tab.0.left/0.23.1440.810@0.23.1440.810" timestamp="1620306862558" />
-    <state width="1400" height="199" key="GridCell.Tab.0.left/0.23.1920.984@0.23.1920.984" timestamp="1622358556691" />
-    <state width="1398" height="227" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1624546016922" />
-    <state width="1300" height="285" key="GridCell.Tab.0.left/1440.23.1080.1897/0.23.1440.805@0.23.1440.805" timestamp="1622188118985" />
-    <state width="897" height="670" key="GridCell.Tab.0.left/1440.23.1080.1897/0.23.1440.805@1440.23.1080.1897" timestamp="1622188959701" />
-    <state width="1400" height="199" key="GridCell.Tab.0.left/1440.55.1920.1057/0.23.1440.805@1440.55.1920.1057" timestamp="1622518972484" />
-    <state width="1400" height="199" key="GridCell.Tab.0.left/1440.55.1920.984/0.23.1440.877@1440.55.1920.984" timestamp="1622422852706" />
-    <state width="1398" height="227" key="GridCell.Tab.0.right" timestamp="1624546016923">
+    <state width="1398" height="227" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1625299313538" />
+    <state width="1398" height="227" key="GridCell.Tab.0.center" timestamp="1625299313537">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1300" height="307" key="GridCell.Tab.0.right/-1920.-120.1920.984/0.23.1440.877@-1920.-120.1920.984" timestamp="1623071855064" />
-    <state width="1300" height="153" key="GridCell.Tab.0.right/-251.-1057.1920.1057/0.23.1440.805@-251.-1057.1920.1057" timestamp="1622634341392" />
-    <state width="1300" height="238" key="GridCell.Tab.0.right/-251.-1057.1920.984/0.23.1440.877@-251.-1057.1920.984" timestamp="1622640596249" />
-    <state width="1398" height="180" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1623810801301" />
-    <state width="1398" height="180" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1623810772597" />
-    <state width="1300" height="283" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1623384410245" />
-    <state width="1400" height="199" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1622616676762" />
-    <state width="1308" height="181" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1620964681461" />
-    <state width="1308" height="182" key="GridCell.Tab.0.right/0.23.1440.810@0.23.1440.810" timestamp="1620306862560" />
-    <state width="1400" height="199" key="GridCell.Tab.0.right/0.23.1920.984@0.23.1920.984" timestamp="1622358556692" />
-    <state width="1398" height="227" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1624546016923" />
-    <state width="1300" height="285" key="GridCell.Tab.0.right/1440.23.1080.1897/0.23.1440.805@0.23.1440.805" timestamp="1622188118986" />
-    <state width="897" height="670" key="GridCell.Tab.0.right/1440.23.1080.1897/0.23.1440.805@1440.23.1080.1897" timestamp="1622188959704" />
-    <state width="1400" height="199" key="GridCell.Tab.0.right/1440.55.1920.1057/0.23.1440.805@1440.55.1920.1057" timestamp="1622518972485" />
-    <state width="1400" height="199" key="GridCell.Tab.0.right/1440.55.1920.984/0.23.1440.877@1440.55.1920.984" timestamp="1622422852708" />
-    <state width="1398" height="180" key="GridCell.Tab.1.bottom" timestamp="1623810801303">
-      <screen x="0" y="23" width="1440" height="797" />
-    </state>
-    <state width="1300" height="258" key="GridCell.Tab.1.bottom/-1920.-120.1920.984/0.23.1440.877@-1920.-120.1920.984" timestamp="1623071855059" />
-    <state width="1300" height="153" key="GridCell.Tab.1.bottom/-251.-1057.1920.1057/0.23.1440.805@-251.-1057.1920.1057" timestamp="1622634342214" />
-    <state width="1300" height="238" key="GridCell.Tab.1.bottom/-251.-1057.1920.984/0.23.1440.877@-251.-1057.1920.984" timestamp="1622640595827" />
-    <state width="1398" height="180" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1623810801303" />
-    <state width="1398" height="180" key="GridCell.Tab.1.bottom/0.23.1440.800@0.23.1440.800" timestamp="1623810772600" />
-    <state width="1300" height="237" key="GridCell.Tab.1.bottom/0.23.1440.805@0.23.1440.805" timestamp="1623384394018" />
-    <state width="1400" height="199" key="GridCell.Tab.1.bottom/0.23.1440.807@0.23.1440.807" timestamp="1622616676765" />
-    <state width="1400" height="199" key="GridCell.Tab.1.bottom/0.23.1920.984@0.23.1920.984" timestamp="1622358556695" />
-    <state width="1300" height="168" key="GridCell.Tab.1.bottom/1440.23.1080.1897/0.23.1440.805@0.23.1440.805" timestamp="1622170846115" />
-    <state width="897" height="409" key="GridCell.Tab.1.bottom/1440.23.1080.1897/0.23.1440.805@1440.23.1080.1897" timestamp="1622188928205" />
-    <state width="1400" height="199" key="GridCell.Tab.1.bottom/1440.55.1920.1057/0.23.1440.805@1440.55.1920.1057" timestamp="1622518972489" />
-    <state width="1400" height="199" key="GridCell.Tab.1.bottom/1440.55.1920.984/0.23.1440.877@1440.55.1920.984" timestamp="1622422852711" />
-    <state width="1398" height="180" key="GridCell.Tab.1.center" timestamp="1623810801302">
-      <screen x="0" y="23" width="1440" height="797" />
-    </state>
-    <state width="1300" height="258" key="GridCell.Tab.1.center/-1920.-120.1920.984/0.23.1440.877@-1920.-120.1920.984" timestamp="1623071855058" />
-    <state width="1300" height="153" key="GridCell.Tab.1.center/-251.-1057.1920.1057/0.23.1440.805@-251.-1057.1920.1057" timestamp="1622634342211" />
-    <state width="1300" height="238" key="GridCell.Tab.1.center/-251.-1057.1920.984/0.23.1440.877@-251.-1057.1920.984" timestamp="1622640595824" />
-    <state width="1398" height="180" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1623810801302" />
-    <state width="1398" height="180" key="GridCell.Tab.1.center/0.23.1440.800@0.23.1440.800" timestamp="1623810772599" />
-    <state width="1300" height="237" key="GridCell.Tab.1.center/0.23.1440.805@0.23.1440.805" timestamp="1623384394017" />
-    <state width="1400" height="199" key="GridCell.Tab.1.center/0.23.1440.807@0.23.1440.807" timestamp="1622616676764" />
-    <state width="1400" height="199" key="GridCell.Tab.1.center/0.23.1920.984@0.23.1920.984" timestamp="1622358556694" />
-    <state width="1300" height="168" key="GridCell.Tab.1.center/1440.23.1080.1897/0.23.1440.805@0.23.1440.805" timestamp="1622170846114" />
-    <state width="897" height="409" key="GridCell.Tab.1.center/1440.23.1080.1897/0.23.1440.805@1440.23.1080.1897" timestamp="1622188928203" />
-    <state width="1400" height="199" key="GridCell.Tab.1.center/1440.55.1920.1057/0.23.1440.805@1440.55.1920.1057" timestamp="1622518972488" />
-    <state width="1400" height="199" key="GridCell.Tab.1.center/1440.55.1920.984/0.23.1440.877@1440.55.1920.984" timestamp="1622422852710" />
-    <state width="1398" height="180" key="GridCell.Tab.1.left" timestamp="1623810801301">
-      <screen x="0" y="23" width="1440" height="797" />
-    </state>
-    <state width="1300" height="258" key="GridCell.Tab.1.left/-1920.-120.1920.984/0.23.1440.877@-1920.-120.1920.984" timestamp="1623071855057" />
-    <state width="1300" height="153" key="GridCell.Tab.1.left/-251.-1057.1920.1057/0.23.1440.805@-251.-1057.1920.1057" timestamp="1622634342186" />
-    <state width="1300" height="238" key="GridCell.Tab.1.left/-251.-1057.1920.984/0.23.1440.877@-251.-1057.1920.984" timestamp="1622640595824" />
-    <state width="1398" height="180" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1623810801301" />
-    <state width="1398" height="180" key="GridCell.Tab.1.left/0.23.1440.800@0.23.1440.800" timestamp="1623810772599" />
-    <state width="1300" height="237" key="GridCell.Tab.1.left/0.23.1440.805@0.23.1440.805" timestamp="1623384394016" />
-    <state width="1400" height="199" key="GridCell.Tab.1.left/0.23.1440.807@0.23.1440.807" timestamp="1622616676763" />
-    <state width="1400" height="199" key="GridCell.Tab.1.left/0.23.1920.984@0.23.1920.984" timestamp="1622358556694" />
-    <state width="1300" height="168" key="GridCell.Tab.1.left/1440.23.1080.1897/0.23.1440.805@0.23.1440.805" timestamp="1622170846113" />
-    <state width="897" height="409" key="GridCell.Tab.1.left/1440.23.1080.1897/0.23.1440.805@1440.23.1080.1897" timestamp="1622188928197" />
-    <state width="1400" height="199" key="GridCell.Tab.1.left/1440.55.1920.1057/0.23.1440.805@1440.55.1920.1057" timestamp="1622518972487" />
-    <state width="1400" height="199" key="GridCell.Tab.1.left/1440.55.1920.984/0.23.1440.877@1440.55.1920.984" timestamp="1622422852709" />
-    <state width="1398" height="180" key="GridCell.Tab.1.right" timestamp="1623810801302">
-      <screen x="0" y="23" width="1440" height="797" />
-    </state>
-    <state width="1300" height="258" key="GridCell.Tab.1.right/-1920.-120.1920.984/0.23.1440.877@-1920.-120.1920.984" timestamp="1623071855058" />
-    <state width="1300" height="153" key="GridCell.Tab.1.right/-251.-1057.1920.1057/0.23.1440.805@-251.-1057.1920.1057" timestamp="1622634342213" />
-    <state width="1300" height="238" key="GridCell.Tab.1.right/-251.-1057.1920.984/0.23.1440.877@-251.-1057.1920.984" timestamp="1622640595825" />
-    <state width="1398" height="180" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1623810801302" />
-    <state width="1398" height="180" key="GridCell.Tab.1.right/0.23.1440.800@0.23.1440.800" timestamp="1623810772600" />
-    <state width="1300" height="237" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1623384394017" />
-    <state width="1400" height="199" key="GridCell.Tab.1.right/0.23.1440.807@0.23.1440.807" timestamp="1622616676764" />
-    <state width="1400" height="199" key="GridCell.Tab.1.right/0.23.1920.984@0.23.1920.984" timestamp="1622358556694" />
-    <state width="1300" height="168" key="GridCell.Tab.1.right/1440.23.1080.1897/0.23.1440.805@0.23.1440.805" timestamp="1622170846114" />
-    <state width="897" height="409" key="GridCell.Tab.1.right/1440.23.1080.1897/0.23.1440.805@1440.23.1080.1897" timestamp="1622188928204" />
-    <state width="1400" height="199" key="GridCell.Tab.1.right/1440.55.1920.1057/0.23.1440.805@1440.55.1920.1057" timestamp="1622518972488" />
-    <state width="1400" height="199" key="GridCell.Tab.1.right/1440.55.1920.984/0.23.1440.877@1440.55.1920.984" timestamp="1622422852710" />
-    <state x="131" y="25" key="SettingsEditor" timestamp="1625240770699">
+    <state width="1398" height="227" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1625299313537" />
+    <state width="1398" height="227" key="GridCell.Tab.0.left" timestamp="1625299313537">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="131" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1623812895795" />
-    <state x="131" y="23" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1623737091613" />
-    <state x="131" y="23" key="SettingsEditor/0.23.1440.800@0.23.1440.800" timestamp="1623758355749" />
-    <state x="131" y="23" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1623737257747" />
-    <state x="131" y="23" key="SettingsEditor/0.23.1440.805@0.23.1440.805" timestamp="1623735851511" />
-    <state x="208" y="23" key="SettingsEditor/0.23.1440.807@0.23.1440.807" timestamp="1620611693298" />
-    <state x="277" y="23" key="SettingsEditor/0.23.1920.984@0.23.1920.984" timestamp="1621250229337" />
-    <state x="131" y="25" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1625240770699" />
-    <state x="208" y="23" key="SettingsEditor/1440.23.1080.1897/0.23.1440.805@0.23.1440.805" timestamp="1621251072561" />
-    <state x="1538" y="23" key="SettingsEditor/1440.23.1080.1897/0.23.1440.805@1440.23.1080.1897" timestamp="1621671240445" />
-    <state x="450" y="164" width="543" height="524" key="StructurePopup" timestamp="1622186748770">
-      <screen x="0" y="23" width="1440" height="805" />
-    </state>
-    <state x="450" y="164" width="543" height="524" key="StructurePopup/1440.23.1080.1897/0.23.1440.805@0.23.1440.805" timestamp="1622186748770" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1624327011764">
+    <state width="1398" height="227" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1625299313537" />
+    <state width="1398" height="227" key="GridCell.Tab.0.right" timestamp="1625299313538">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.25.1440.875@0.25.1440.875" timestamp="1624327011764" />
-    <state x="378" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1623736979041">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="227" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1625299313538" />
+    <state x="208" y="42" key="SettingsEditor" timestamp="1625299244393">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="-1419" y="168" key="com.intellij.ide.util.TipDialog/-1920.-120.1920.984/0.23.1440.877@-1920.-120.1920.984" timestamp="1622894507004" />
-    <state x="376" y="259" key="com.intellij.ide.util.TipDialog/-251.-1057.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1622633856866" />
-    <state x="378" y="257" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1623736979041" />
-    <state x="378" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1623735887602" />
-    <state x="376" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.807@0.23.1440.807" timestamp="1619833892799" />
-    <state x="378" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1623735216779" />
-    <state x="1722" y="579" key="com.intellij.ide.util.TipDialog/1440.23.1080.1897/0.23.1440.805@1440.23.1080.1897" timestamp="1622120826615" />
-    <state x="1941" y="343" key="com.intellij.ide.util.TipDialog/1440.55.1920.984/0.23.1440.877@1440.55.1920.984" timestamp="1622423135742" />
-    <state x="240" y="23" width="958" height="807" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1623806657015">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="208" y="42" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1625299244393" />
+    <state x="513" y="246" key="chooseDestDirectoryDialog" timestamp="1625299343846">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="240" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.797@0.23.1440.797" timestamp="1623806657015" />
-    <state x="240" y="23" width="958" height="807" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.807@0.23.1440.807" timestamp="1620003503995" />
-    <state x="460" y="187" key="extract.method.dialog" timestamp="1620004925525">
-      <screen x="0" y="23" width="1440" height="807" />
+    <state x="513" y="246" key="chooseDestDirectoryDialog/0.25.1440.875@0.25.1440.875" timestamp="1625299343845" />
+    <state x="302" y="193" width="835" height="538" key="find.popup" timestamp="1625298960307">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="460" y="187" key="extract.method.dialog/0.23.1440.807@0.23.1440.807" timestamp="1620004925525" />
-    <state x="302" y="152" width="835" height="538" key="find.popup" timestamp="1623980083520">
-      <screen x="0" y="25" width="1440" height="793" />
+    <state x="302" y="193" width="835" height="538" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1625298960307" />
+    <state x="123" y="66" key="new project wizard" timestamp="1625298524741">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="302" y="152" width="835" height="538" key="find.popup/0.25.1440.793@0.25.1440.793" timestamp="1623980083520" />
-    <state width="600" height="423" key="javadoc.popup" timestamp="1621156943569">
-      <screen x="0" y="23" width="1440" height="805" />
-    </state>
-    <state width="600" height="423" key="javadoc.popup/0.23.1440.805@0.23.1440.805" timestamp="1621156943569" />
-    <state width="600" height="424" key="javadoc.popup/0.23.1440.807@0.23.1440.807" timestamp="1619676084814" />
-    <state x="385" y="193" key="run.anything.popup" timestamp="1621252623386">
-      <screen x="0" y="23" width="1440" height="805" />
-    </state>
-    <state x="385" y="193" key="run.anything.popup/0.23.1440.805@0.23.1440.805" timestamp="1621048417718" />
-    <state x="385" y="193" key="run.anything.popup/0.23.1440.807@0.23.1440.807" timestamp="1620609297548" />
-    <state x="385" y="193" key="run.anything.popup/1440.23.1080.1897/0.23.1440.805@0.23.1440.805" timestamp="1621252623386" />
-    <state x="385" y="154" width="671" height="666" key="search.everywhere.popup" timestamp="1623894720664">
-      <screen x="0" y="25" width="1440" height="793" />
-    </state>
-    <state x="385" y="154" width="670" height="675" key="search.everywhere.popup/0.23.1440.805@0.23.1440.805" timestamp="1622091270071" />
-    <state x="385" y="154" width="670" height="676" key="search.everywhere.popup/0.23.1440.807@0.23.1440.807" timestamp="1620615652234" />
-    <state x="385" y="154" width="670" height="678" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1621232886699" />
-    <state x="385" y="154" width="671" height="666" key="search.everywhere.popup/0.25.1440.793@0.25.1440.793" timestamp="1623894720664" />
-    <state x="385" y="154" width="670" height="675" key="search.everywhere.popup/1440.23.1080.1897/0.23.1440.805@0.23.1440.805" timestamp="1622171690283" />
-    <state x="1729" y="332" width="670" height="1591" key="search.everywhere.popup/1440.23.1080.1897/0.23.1440.805@1440.23.1080.1897" timestamp="1622097467100" />
-    <state x="1953" y="227" width="894" height="887" key="search.everywhere.popup/1440.55.1920.1057/0.23.1440.805@1440.55.1920.1057" timestamp="1622518539881" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0518.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/dailyPractice$MySort.ic" NAME="MySort Coverage Results" MODIFIED="1619665016619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>yanFaZuiAi.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/dailyPractice$TopKth.ic" NAME="TopKth Coverage Results" MODIFIED="1619784995923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>yanFaZuiAi.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/dailyPractice$M0607.ic" NAME="M0607 Coverage Results" MODIFIED="1623071295969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>dailyPractice.M06.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/dailyPractice$m0425.ic" NAME="m0425 Coverage Results" MODIFIED="1619341701855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>april.dailyPractice.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/dailyPractice$Test.ic" NAME="Test Coverage Results" MODIFIED="1620026027441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>dailyPractice.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/dailyPractice$M0428.ic" NAME="M0428 Coverage Results" MODIFIED="1619599172650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>april.dailyPractice.*</FILTER>
-    </SUITE>
+    <state x="123" y="66" key="new project wizard/0.25.1440.875@0.25.1440.875" timestamp="1625298524741" />
   </component>
 </project>
