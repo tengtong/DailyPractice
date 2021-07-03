@@ -1,148 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c1bc0f7-44e6-462a-8740-97d3c08bda5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailyPractice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M04/M0425.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M04/M0426.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M04/M0428.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M04/M0428.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M04/M0429.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M04/M0430.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M04/M0430.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0501.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0502.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0503.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0503.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0504.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0505.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0506.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0507.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0508.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0509.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0510.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0511.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0511.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0512.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0512.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0513.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0514.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0515.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0515.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0516.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0517.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0518.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0518.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0519.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0519.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0520.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0521.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0522.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0523.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0524.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0525.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0526.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0526.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0527.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0528.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0529.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0530.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0530.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M05/M0531.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0601.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0602.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0602.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0603.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0604.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0605.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0606.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0607.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0608.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0609.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0610.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0611.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0612.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0613.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0614.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0615.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0615.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0616.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0616.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0617.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0618.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0618.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0619.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0620.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0621.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0621.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0622.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0623.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/M06/M0624.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0624.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DailyPractice/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailyPractice/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DailyPractice/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0425.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0425.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0426.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0426.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0428.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0428.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0429.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0429.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0430.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0430.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0501$Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0501$Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0501.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0501.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0502.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0502.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0503.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0503.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0504.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0504.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0505.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0505.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0506.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0506.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0507.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0507.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0508.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0508.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0509.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0509.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0510.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0510.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0511.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0511.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0512.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0512.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0513.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0513.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0514.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0514.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0515$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0515$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0515.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0515.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0516.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0516.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0517.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0517.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0518.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0518.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0519.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0519.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0520$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0520$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0520.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0520.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0521.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0521.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0522.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0522.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0523$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0523$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0523$Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0523$Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0523.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0523.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0524.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0524.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0525.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0525.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0526.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0526.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0527.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0527.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0528.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0528.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0529.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0529.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0530.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0530.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0531.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0531.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0601.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0601.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0602.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0602.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0603.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0603.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0604.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0604.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0605.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0605.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0606.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0606.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0607.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0607.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0608.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0608.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0609.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0609.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0610.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0610.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0611$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0611$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0611.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0611.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0612.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0612.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0613.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0613.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0614.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0614.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0615.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0615.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0616.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0616.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0617.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0617.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0618.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0618.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0619.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0619.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0620.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0620.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0621.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0621.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0622.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0622.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0623.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0623.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0624.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0624.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/TreeNode.class" afterDir="false" />
-    </list>
+    <list default="true" id="4c1bc0f7-44e6-462a-8740-97d3c08bda5b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -264,7 +123,7 @@
       <workItem from="1625298351188" duration="42000" />
       <workItem from="1625298408624" duration="58000" />
       <workItem from="1625298470686" duration="575000" />
-      <workItem from="1625299114572" duration="342000" />
+      <workItem from="1625299114572" duration="767000" />
     </task>
     <servers />
   </component>
