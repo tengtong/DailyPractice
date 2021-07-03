@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c1bc0f7-44e6-462a-8740-97d3c08bda5b" name="Default Changelist" comment="" />
+    <list default="true" id="4c1bc0f7-44e6-462a-8740-97d3c08bda5b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +35,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Application.Test (1)">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -123,7 +126,7 @@
       <workItem from="1625298351188" duration="42000" />
       <workItem from="1625298408624" duration="58000" />
       <workItem from="1625298470686" duration="575000" />
-      <workItem from="1625299114572" duration="767000" />
+      <workItem from="1625299114572" duration="2782000" />
     </task>
     <servers />
   </component>
@@ -155,10 +158,10 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="1398" height="227" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1625299313538" />
-    <state x="208" y="42" key="SettingsEditor" timestamp="1625299244393">
+    <state x="208" y="42" key="SettingsEditor" timestamp="1625301226761">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="208" y="42" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1625299244393" />
+    <state x="208" y="42" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1625301226761" />
     <state x="513" y="246" key="chooseDestDirectoryDialog" timestamp="1625299343846">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
