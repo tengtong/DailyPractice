@@ -1,4 +1,4 @@
-package DailyPractice.M06;
+package dailyPractice.M06;
 
 // 278. 第一个错误的版本
 // 可以调用bool isBadVersion(version)接口来判断当前版本是否是错误版本，输入n为总版本的个数

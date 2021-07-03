@@ -1,4 +1,4 @@
-package DailyPractice.M05;
+package dailyPractice.M05;
 
 // 1269. 停在原地的方案数
 public class M0513 {

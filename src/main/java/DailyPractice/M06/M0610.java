@@ -1,4 +1,4 @@
-package DailyPractice.M06;
+package dailyPractice.M06;
 
 // 518. 零钱兑换 II
 public class M0610 {

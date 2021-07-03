@@ -1,4 +1,4 @@
-package DailyPractice.M06;
+package dailyPractice.M06;
 
 import java.util.ArrayList;
 import java.util.List;

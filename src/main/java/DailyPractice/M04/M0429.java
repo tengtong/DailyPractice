@@ -1,4 +1,4 @@
-package DailyPractice.M04;
+package dailyPractice.M04;
 
 import java.util.Arrays;
 import java.util.Spliterator;

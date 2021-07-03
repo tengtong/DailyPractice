@@ -1,4 +1,4 @@
-package DailyPractice.M06;
+package dailyPractice.M06;
 
 // 474. 一和零
 public class M0606 {

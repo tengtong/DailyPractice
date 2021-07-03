@@ -1,4 +1,4 @@
-package DailyPractice.M05;
+package dailyPractice.M05;
 
 // 231. 判断一个数字是否是2的幂次方
 public class M0530 {

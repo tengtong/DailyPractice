@@ -1,4 +1,4 @@
-package DailyPractice.M06;
+package dailyPractice.M06;
 
 // 374. 猜数字大小
 // 可以调用int guess(int num) 来获取猜测结果

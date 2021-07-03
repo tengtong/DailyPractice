@@ -1,4 +1,4 @@
-package DailyPractice;
+package dailyPractice;
 
 public class TreeNode {
     // private 修饰的属性，只有类内部的方法才能访问，进行了封装

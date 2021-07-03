@@ -1,4 +1,4 @@
-package DailyPractice.M06;
+package dailyPractice.M06;
 
 // 879. 盈利计划（hard）
 public class M0609 {

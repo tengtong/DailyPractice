@@ -1,4 +1,4 @@
-package DailyPractice.M05;
+package dailyPractice.M05;
 
 // 1720. 解码异或后的数组
 public class M0506 {

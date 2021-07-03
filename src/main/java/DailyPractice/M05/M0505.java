@@ -1,4 +1,4 @@
-package DailyPractice.M05;
+package dailyPractice.M05;
 
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;

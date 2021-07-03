@@ -1,6 +1,6 @@
-package DailyPractice;
+package dailyPractice;
 
-import DailyPractice.M05.M0526;
+import dailyPractice.M05.M0526;
 
 import java.io.Serializable;
 import java.util.*;

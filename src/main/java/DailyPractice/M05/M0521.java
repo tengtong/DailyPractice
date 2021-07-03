@@ -1,4 +1,4 @@
-package DailyPractice.M05;
+package dailyPractice.M05;
 
 // 1035. 不相交的线
 public class M0521 {

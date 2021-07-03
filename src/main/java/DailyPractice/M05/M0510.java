@@ -1,6 +1,6 @@
-package DailyPractice.M05;
+package dailyPractice.M05;
 
-import DailyPractice.TreeNode;
+import dailyPractice.TreeNode;
 
 import java.util.LinkedList;
 

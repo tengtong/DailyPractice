@@ -1,4 +1,4 @@
-package DailyPractice.M06;
+package dailyPractice.M06;
 
 import java.util.Deque;
 import java.util.LinkedList;

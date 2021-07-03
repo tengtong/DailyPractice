@@ -1,13 +1,13 @@
-package DailyPractice.M04;
+package dailyPractice.M04;
 
-import DailyPractice.TreeNode;
+import dailyPractice.TreeNode;
 
 import java.util.*;
 
 //897.递增顺序搜索树
 //思路：先中序遍历，然后将重新组织结果
 public class M0425 {
-    public DailyPractice.TreeNode increasingBST(TreeNode root) {
+    public dailyPractice.TreeNode increasingBST(TreeNode root) {
         List<Integer> list = new ArrayList<Integer>();
         inOrder(root, list);
         TreeNode tempNode = new TreeNode(-1);

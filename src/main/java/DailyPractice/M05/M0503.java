@@ -1,4 +1,4 @@
-package DailyPractice.M05;
+package dailyPractice.M05;
 
 //7、整数反转
 //题目要求：假设环境不允许存储 64 位整数，即long类型

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c1bc0f7-44e6-462a-8740-97d3c08bda5b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4c1bc0f7-44e6-462a-8740-97d3c08bda5b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,12 +124,23 @@
       <workItem from="1625298351188" duration="42000" />
       <workItem from="1625298408624" duration="58000" />
       <workItem from="1625298470686" duration="575000" />
-      <workItem from="1625299114572" duration="4253000" />
+      <workItem from="1625299114572" duration="4493000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="126" key="#Project_Structure" timestamp="1625299271155">
@@ -142,6 +151,10 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1625299236618" />
+    <state x="100" y="125" width="1240" height="675" key="DiffContextDialog" timestamp="1625305304683">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="100" y="125" width="1240" height="675" key="DiffContextDialog/0.25.1440.875@0.25.1440.875" timestamp="1625305304683" />
     <state width="1398" height="227" key="GridCell.Tab.0.bottom" timestamp="1625299313538">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
@@ -162,10 +175,10 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="208" y="42" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1625304954495" />
-    <state x="100" y="125" width="1240" height="675" key="ShowDiffWithBranchDialog" timestamp="1625303365523">
+    <state x="100" y="125" width="1240" height="675" key="ShowDiffWithBranchDialog" timestamp="1625305304683">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="100" y="125" width="1240" height="675" key="ShowDiffWithBranchDialog/0.25.1440.875@0.25.1440.875" timestamp="1625303365523" />
+    <state x="100" y="125" width="1240" height="675" key="ShowDiffWithBranchDialog/0.25.1440.875@0.25.1440.875" timestamp="1625305304683" />
     <state x="513" y="246" key="chooseDestDirectoryDialog" timestamp="1625299343846">
       <screen x="0" y="25" width="1440" height="875" />
     </state>

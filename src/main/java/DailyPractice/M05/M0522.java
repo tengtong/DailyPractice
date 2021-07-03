@@ -1,4 +1,4 @@
-package DailyPractice.M05;
+package dailyPractice.M05;
 
 // 810. 黑板异或游戏
 // 当轮该该玩家时，黑板上的数字异或结果不为0，即获胜

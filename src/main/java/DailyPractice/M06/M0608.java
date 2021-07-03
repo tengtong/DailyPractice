@@ -1,4 +1,4 @@
-package DailyPractice.M06;
+package dailyPractice.M06;
 
 // 1049. 最后一块石头的重量 II
 public class M0608 {

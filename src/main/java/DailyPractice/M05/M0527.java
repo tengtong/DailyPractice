@@ -1,4 +1,4 @@
-package DailyPractice.M05;
+package dailyPractice.M05;
 
 // 461. 汉明距离
 // 找出两个数字二进制不同的个数

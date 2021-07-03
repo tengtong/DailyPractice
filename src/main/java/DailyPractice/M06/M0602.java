@@ -1,4 +1,4 @@
-package DailyPractice.M06;
+package dailyPractice.M06;
 
 import com.sun.scenario.effect.impl.ImagePool;
 

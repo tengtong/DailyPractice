@@ -1,4 +1,4 @@
-package DailyPractice.M05;
+package dailyPractice.M05;
 
 // 664. 奇怪的打印机
 // 最少打印次数？最值？动态规划？
