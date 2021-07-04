@@ -16,7 +16,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c1bc0f7-44e6-462a-8740-97d3c08bda5b" name="Default Changelist" comment="" />
+    <list default="true" id="4c1bc0f7-44e6-462a-8740-97d3c08bda5b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,6 +94,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.M0704" />
@@ -122,6 +135,8 @@
       <workItem from="1625365034878" duration="113000" />
       <workItem from="1625365165161" duration="5943000" />
       <workItem from="1625371879180" duration="427000" />
+      <workItem from="1625374712297" duration="6000" />
+      <workItem from="1625374733384" duration="708000" />
     </task>
     <servers />
   </component>
@@ -193,10 +208,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625371865950" />
-    <state x="277" y="20" key="SettingsEditor" timestamp="1625371724385">
+    <state x="277" y="20" key="SettingsEditor" timestamp="1625374804560">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="277" y="20" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1625371724385" />
+    <state x="277" y="20" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1625374804560" />
     <state x="208" y="42" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1625304954495" />
     <state x="100" y="125" width="1240" height="675" key="ShowDiffWithBranchDialog" timestamp="1625305304683">
       <screen x="0" y="25" width="1440" height="875" />
