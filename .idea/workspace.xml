@@ -12,258 +12,12 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c1bc0f7-44e6-462a-8740-97d3c08bda5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m07/M0704.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M04/M0425.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m04/M0425.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M04/M0426.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m04/M0426.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M04/M0428.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m04/M0428.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M04/M0429.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m04/M0429.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M04/M0430.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m04/M0430.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0501.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0501.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0502.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0502.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0503.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0503.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0504.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0504.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0505.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0505.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0506.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0506.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0507.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0507.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0508.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0508.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0509.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0509.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0510.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0510.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0511.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0511.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0512.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0512.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0513.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0513.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0514.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0514.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0515.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0515.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0516.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0516.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0517.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0517.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0518.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0518.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0519.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0519.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0520.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0520.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0521.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0521.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0522.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0522.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0523.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0523.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0524.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0524.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0525.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0525.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0526.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0526.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0527.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0527.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0528.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0528.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0529.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0529.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0530.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0530.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M05/M0531.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m05/M0531.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0601.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0601.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0602.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0602.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0603.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0603.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0604.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0604.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0605.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0605.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0606.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0606.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0607.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0607.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0608.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0608.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0609.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0609.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0610.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0610.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0611.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0611.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0612.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0612.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0613.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0613.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0614.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0614.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0615.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0615.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0616.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0616.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0617.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0617.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0618.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0618.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0619.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0619.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0620.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0620.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0621.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0621.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0622.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0622.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0623.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0623.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/M06/M0624.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/m06/M0624.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DailyPractice/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailypractice/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/binarySearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/binarysearch/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/search/backTracking/PhoneNumComb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/search/backtracking/PhoneNumComb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/search/backTracking/StringFullPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/search/backtracking/StringFullPermutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/InsertSort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/insertsort/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/InsertSort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/insertsort/ShellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/bucketSort/BucketSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/bucketsort/BucketSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/countSort/CountingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/countsort/CountingSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/mergeSort/MergSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/mergesort/MergSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/selectSort/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/selectsort/Heap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/selectSort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/selectsort/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/selectSort/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/selectsort/SelectSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/swapSort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/swapsort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/swapSort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/swapsort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/Flatten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/Flatten.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/HasCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/HasCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/HasCycleII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/HasCycleII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/IsValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/IsValid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/LCS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/LCS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/LIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/LIS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/LRUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/LRUCacheExtendsLinkedHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/LRUCacheExtendsLinkedHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/LevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/LevelOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/LongestPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/LongestSubStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/LongestSubStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/LowestAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/LowestAncestor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/MapSortByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/MapSortByValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/MaxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/MaxProfit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/MaxSubList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/MaxSubList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/MaxSumOfSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/MaxSumOfSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/Merge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/MergeTwoLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/MergeTwoLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/MySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/MySort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/RemoveNthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/RemoveNthFromEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/ReverseKGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/ReverseKGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/ReverseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/SmallestKth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/SmallestKth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/Solve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/Solve.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/SpiralOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/SpiralOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/ThreeOrders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/ThreeOrders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/TopKth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/TopKth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yanFaZuiAi/ZigzagLevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yanfazuiai/ZigzagLevelOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DailyPractice/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/dailypractice/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/binarySearch/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/binarySearch/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0425.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0425.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0426.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0426.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0428.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0428.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0429.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0429.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0430.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M04/M0430.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0501$Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0501$Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0501.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0501.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0502.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0502.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0503.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0503.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0504.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0504.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0505.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0505.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0506.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0506.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0507.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0507.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0508.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0508.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0509.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0509.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0510.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0510.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0511.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0511.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0512.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0512.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0513.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0513.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0514.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0514.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0515$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0515$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0515.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0515.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0516.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0516.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0517.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0517.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0518.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0518.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0519.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0519.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0520$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0520$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0520.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0520.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0521.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0521.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0522.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0522.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0523$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0523$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0523$Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0523$Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0523.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0523.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0524.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0524.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0525.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0525.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0526.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0526.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0527.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0527.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0528.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0528.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0529.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0529.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0530.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0530.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0531.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M05/M0531.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0601.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0601.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0602.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0602.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0603.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0603.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0604.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0604.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0605.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0605.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0606.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0606.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0607.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0607.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0608.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0608.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0609.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0609.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0610.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0610.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0611$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0611$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0611.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0611.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0612.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0612.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0613.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0613.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0614.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0614.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0615.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0615.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0616.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0616.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0617.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0617.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0618.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0618.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0619.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0619.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0620.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0620.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0621.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0621.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0622.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0622.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0623.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0623.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0624.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/M06/M0624.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dailyPractice/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dailyPractice/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/search/backTracking/PhoneNumComb.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/search/backTracking/PhoneNumComb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/search/backTracking/StringFullPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/search/backTracking/StringFullPermutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/InsertSort/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/InsertSort/InsertSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/InsertSort/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/InsertSort/ShellSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/bucketSort/BucketSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/bucketSort/BucketSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/countSort/CountingSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/countSort/CountingSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/mergeSort/MergSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/mergeSort/MergSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/selectSort/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/selectSort/Heap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/selectSort/HeapSort$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/selectSort/HeapSort$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/selectSort/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/selectSort/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/selectSort/SelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/selectSort/SelectSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/swapSort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/swapSort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/swapSort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/swapSort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/AddTwoNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/Flatten.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/Flatten.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/HasCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/HasCycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/HasCycleII.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/HasCycleII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/IsValid$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/IsValid$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/IsValid.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/IsValid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/LCS.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/LCS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/LIS.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/LIS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/LRUCache$DLinkedNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/LRUCache$DLinkedNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/LRUCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/LRUCacheExtendsLinkedHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/LRUCacheExtendsLinkedHashMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/LevelOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/LevelOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/LongestPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/LongestSubStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/LongestSubStr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/LowestAncestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/LowestAncestor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/MapSortByValue$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/MapSortByValue$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/MapSortByValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/MapSortByValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/MaxProfit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/MaxProfit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/MaxSubList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/MaxSubList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/MaxSumOfSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/MaxSumOfSubArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/Merge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/MergeTwoLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/MergeTwoLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/MySort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/MySort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/RemoveNthFromEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/RemoveNthFromEnd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/ReverseKGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/ReverseKGroup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/ReverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/ReverseList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/ReverseString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/SmallestKth$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/SmallestKth$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/SmallestKth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/SmallestKth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/Solve.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/Solve.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/SpiralOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/SpiralOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/ThreeOrders.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/ThreeOrders.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/ThreeSum$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/ThreeSum$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/ThreeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/TopKth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/TopKth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yanFaZuiAi/ZigzagLevelOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yanFaZuiAi/ZigzagLevelOrder.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -304,7 +58,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager" selected="Application.M0704">
     <configuration name="M0704" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -340,17 +94,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.M0704" />
@@ -379,7 +122,7 @@
       <workItem from="1625362627454" duration="561000" />
       <workItem from="1625363205949" duration="1102000" />
       <workItem from="1625365034878" duration="113000" />
-      <workItem from="1625365165161" duration="3431000" />
+      <workItem from="1625365165161" duration="5943000" />
     </task>
     <servers />
   </component>
@@ -415,46 +158,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1625318253407" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1625368802307">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1625371865950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625368802307" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625371865950" />
     <state width="1398" height="227" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1625299313538" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1625368802307">
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1625371865950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625368802307" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625371865950" />
     <state width="1398" height="227" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1625299313537" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1625368802307">
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1625371865949">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625368802307" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625371865949" />
     <state width="1398" height="227" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1625299313537" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1625368802307">
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1625371865950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625368802307" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625371865950" />
     <state width="1398" height="227" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1625299313538" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1625367011520">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1625371865950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625367011520" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1625367011520">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625371865950" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1625371865950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625367011520" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1625367011520">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625371865950" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1625371865950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625367011520" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1625367011520">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625371865950" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1625371865950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625367011520" />
-    <state x="277" y="20" key="SettingsEditor" timestamp="1625365153188">
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625371865950" />
+    <state x="277" y="20" key="SettingsEditor" timestamp="1625371724385">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="277" y="20" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1625365153188" />
+    <state x="277" y="20" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1625371724385" />
     <state x="208" y="42" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1625304954495" />
     <state x="100" y="125" width="1240" height="675" key="ShowDiffWithBranchDialog" timestamp="1625305304683">
       <screen x="0" y="25" width="1440" height="875" />
