@@ -33,7 +33,9 @@ public class M0526 {
         StringBuilder ret = new StringBuilder();
         for (int i = 0; i < s.length(); i++) {
             char curChar = s.charAt(i);
-            if (curChar == '(' || curChar == ')') continue;
+            if (curChar == '(' || curChar == ')') {
+                continue;
+            }
             ret.append(curChar);
         }
         return ret.toString();
