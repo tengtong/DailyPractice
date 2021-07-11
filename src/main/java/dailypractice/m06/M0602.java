@@ -22,7 +22,7 @@ public class M0602 {
         return false;
     }
 
-    // 方法一：前缀和 + 哈希表
+    // 方法二：前缀和 + 哈希表
     public boolean checkSubarraySum1(int[] nums, int k) {
         // 前缀和
         int[] sums = new int[nums.length];
