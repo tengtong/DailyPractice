@@ -1,15 +1,13 @@
 package dailypractice.m07;
 
-import java.util.Arrays;
-
 /**
- * 274. H 指数
- * 一共n篇论文，共有h篇论文至少在引用次数在h及以上
+ * 275. H 指数 II
  * @author tengtong
  */
-public class M0711 {
+public class M0712 {
     /**
      * 方法一：二分查找
+     * 和昨天题目一样
      * h c [1, n]，h有取值范围
      * @param citations 论文的引用次数数组
      * @return
@@ -56,28 +54,9 @@ public class M0711 {
         }
     }
 
-    /**
-     * 方法二：排序
-     * @param citations
-     * @return
-     */
-    public int hIndex1(int[] citations) {
-        Arrays.sort(citations);
-        int h = 0, i = citations.length - 1;
-        // 倒序遍历，当前指数为h，h已经是符合条件的值
-        // 如果当前篇论文的值比h大，说明至少多存在一篇论文，h+1
-        // 倒序是为了保证h能有效
-        // 总结：不推荐排序，用二分更加直观
-        while (i >= 0 && citations[i] > h) {
-            h++;
-            i--;
-        }
-        return h;
-    }
-
     public static void main(String[] args) {
-        int[] citations = {1,2};
-        M0711 test = new M0711();
-        System.out.println(test.hIndex(citations));
+        int[] array = {0,1,3,5,6};
+        M0712 test = new M0712();
+        System.out.println(test.hIndex(array));
     }
 }
