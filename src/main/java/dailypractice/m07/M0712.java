@@ -7,6 +7,7 @@ package dailypractice.m07;
 public class M0712 {
     /**
      * 方法一：二分查找
+     * 和昨天题目一样
      * h c [1, n]，h有取值范围
      * @param citations 论文的引用次数数组
      * @return
